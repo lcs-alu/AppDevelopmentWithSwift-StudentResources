@@ -10,12 +10,16 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
-
+print("Second Story")
+print("ClariS")
 
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
+print("手のひらから　伝わってる あったかい　大好き")
+print("いつもよりも大人しいね? ドキドキしてる")
+print("空からふわり　舞い降りた粉雪 キミの無邪気な　笑顔にふれたの")
+print("Baby Baby love  優しくてがホッとするね")
 
 
 /*:
