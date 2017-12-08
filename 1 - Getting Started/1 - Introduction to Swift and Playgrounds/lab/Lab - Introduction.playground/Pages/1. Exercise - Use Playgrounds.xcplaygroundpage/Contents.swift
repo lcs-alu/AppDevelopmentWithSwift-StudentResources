@@ -19,7 +19,7 @@ print("ClariS")
 print("手のひらから　伝わってる あったかい　大好き")
 print("いつもよりも大人しいね? ドキドキしてる")
 print("空からふわり　舞い降りた粉雪 キミの無邪気な　笑顔にふれたの")
-print("Baby Baby love  優しくてがホッとするね")
+print("baby baby love  優しくてがホッとするね")
 
 
 /*:
