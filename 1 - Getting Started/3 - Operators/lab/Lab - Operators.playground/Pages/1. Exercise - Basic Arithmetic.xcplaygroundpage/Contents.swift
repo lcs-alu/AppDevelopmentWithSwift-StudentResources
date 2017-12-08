@@ -42,7 +42,7 @@ print(divisionResult)
 let pi = 3.1415927 
 let radius = 5.0
 let diameter = 2 * radius
-let circumference = 2 * pi * radius
+let circumference = 2 * pi * radius 
 print(diameter)
 print(circumference)
 
